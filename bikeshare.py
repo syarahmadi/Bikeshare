@@ -1,9 +1,11 @@
-
+ #------This project is thrid project of Udacity course-----------
 
 
 import time
 import pandas as pd
 import numpy as np
+
+
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -42,6 +44,9 @@ def get_filters():
       else:
         day='all'
       return city, month, day
+
+
+
 
       #---------------------------------
 
@@ -166,6 +171,10 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 #------------------------------------------------
+
+
+
+
 
 def main():
     while True:
