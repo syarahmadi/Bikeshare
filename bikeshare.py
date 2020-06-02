@@ -1,5 +1,6 @@
-#--------Somayeh Yarahmadi---------------------------
+ #------This project is thrid project of Udacity course-----------
 
+ 
 import time
 import pandas as pd
 import numpy as np
