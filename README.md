@@ -1,2 +1,1 @@
-please Run bikeshare.py
-This is project of Udacity
+This is project of a course.
